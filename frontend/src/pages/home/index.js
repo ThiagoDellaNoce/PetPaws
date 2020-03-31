@@ -1,8 +1,10 @@
 import React from 'react';
+import styles from './style.css'
+import Header from '../../inc/header'
 
 function Home() {
   return (
-    <h1>Homepage</h1>
+    <Header />
   );
 }
 

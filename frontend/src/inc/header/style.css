@@ -1,6 +1,5 @@
 .bg-pink {
   background-color: #DA70D6;
-  height: 65px;
 }
 
 .nav-link {
@@ -11,3 +10,7 @@
 /* .nav-link:hover {
   
 } */
+
+#tiraOutline:focus {
+  outline: 0 !important;
+}

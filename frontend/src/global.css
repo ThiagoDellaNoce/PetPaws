@@ -10,3 +10,7 @@
 body {
   font: 400 16px 'Roboto', sans-serif;
 }
+
+.input-group:focus, input[type="search"]:focus {
+  outline: 0;
+}
